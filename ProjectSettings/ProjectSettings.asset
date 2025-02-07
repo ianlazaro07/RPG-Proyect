@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 87a4e0ea6b02f69428177daaec2d5994
+  productGUID: 54bb5b1c7c1b9d147ac3e151b6273c46
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: RPG-Proyect
+  productName: 2dproyecto
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -609,14 +609,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: RPG-Proyect
+  metroPackageName: 2dproyecto
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: RPG-Proyect
+  metroApplicationDescription: 2dproyecto
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -685,12 +685,12 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 0
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 1fae5e7b-dcfc-4bfc-b74b-0725ac1d67ce
+  cloudProjectId: 3d00175e-747d-4790-bf14-aef7ea60621f
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: RPG-Proyect
+  projectName: 2dproyecto
   organizationId: ianlazaro
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
